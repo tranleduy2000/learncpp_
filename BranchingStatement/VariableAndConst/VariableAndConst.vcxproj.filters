@@ -29,5 +29,8 @@
     <ClCompile Include="VariableAndConst.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Blink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
